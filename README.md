@@ -51,7 +51,7 @@ Conectar a personas que desean dar en adopción a sus mascotas con usuarios inte
 ## 💻 Cómo ejecutar el proyecto localmente
 
 # 1. Clona el repositorio
-git clone https://github.com/Emmanuel4280/adogtame.git
+git clone https://github.com/Emmanuel4280/Proyecto
 
 # 2. Entra a la carpeta del proyecto
 cd adogtame
