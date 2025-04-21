@@ -58,7 +58,9 @@ cd adogtame
 
 # 3. Instala las dependencias
 npm install
-
+npm install react react-dom firebase
+npm install react-router-dom
+npm run dev
 # 4. (Opcional) Crea un archivo .env con tus credenciales de Firebase
 # VITE_FIREBASE_API_KEY=...
 # VITE_FIREBASE_AUTH_DOMAIN=...
