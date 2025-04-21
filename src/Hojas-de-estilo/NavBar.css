@@ -1,0 +1,27 @@
+.nav-container {
+  margin-left: 50px;
+  padding: 20px;
+}
+
+.navbar-brand {
+  text-decoration: underline;
+  text-decoration-color: Black;
+}
+
+.navbar {
+  background-color: #a3b18a; /* Color de fondo */
+  padding: 0.5rem 1rem;
+}
+
+.navbar-nav {
+  display: flex; /* Usamos flexbox para distribuir los elementos */
+  justify-content: flex-start; /* Alinea los elementos a la izquierda */
+  align-items: center; /* Alineación vertical */
+  width: 100%; /* Asegura que ocupe el ancho completo */
+}
+
+.navbar-brand {
+  font-weight: bold;
+  font-size: 1.5rem;
+  color: #343a40; /* Color del texto */
+}
